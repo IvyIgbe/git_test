@@ -1,1 +1,1 @@
-THis is IvyIgbe's first git project!
+This is IvyIgbe's first git project!
